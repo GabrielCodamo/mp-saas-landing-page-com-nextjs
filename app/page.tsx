@@ -69,7 +69,7 @@ export default function Home() {
           <h2 className="font-bold md:text-4xl text-2xl  text-center">Como funciona?</h2>
           <div className="flex lg:mx-40 flex-col xl:mx-30 md:flex-row justify-between mx-30 items-center">
             <Image src={woman} alt="Mulher carregando caixas" className="max-w-xs"></Image>
-            <ul className="text-gray-400 md:text-2xl text-lg   space-y-4 md:space-y-6 flex-shrink-0">
+            <ul className="text-gray-400 md:text-2xl text-lg  space-y-4 md:space-y-6 flex-shrink-0">
               <li className="flex gap-4 justify-between items-center">Acesso a 1 ebook por mês <Check className="text-green-600" /></li>
               <li className="flex gap-4 justify-between items-center">Curadoria especial <Check className="text-green-600" /></li>
               <li className="flex gap-4 justify-between items-center">Cancele quando quiser <Check className="text-green-600" /></li>
